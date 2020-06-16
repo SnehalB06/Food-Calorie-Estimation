@@ -6,7 +6,7 @@ Download weights and model file from here-
 https://drive.google.com/drive/folders/1NBrsesVV286ORWgytxwW8V7BH5iQy0op?usp=sharing
 
 Requirements-
-Python 3.4
+//Python 3.4
 tensorflow>=2.2.0
 keras>=2.3.1
 gast>=0.3.3
